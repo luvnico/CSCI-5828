@@ -4,6 +4,9 @@ Team members: Yihua Shi, Xueyan Wu
 
 **1. Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.**
 
+As defined by Brooks, essential difficulties are the difficulties inherent in the nature of software, which includes the specification, design and testing of conceptual construct when building software. No matter how technique changes, there will still be essential difficulties shown in several ways - they could be conflicts of specifications between different regulations, or the ever-changing needs from clients. 
+
+
 **2. Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.**
 
 **3. List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.**
