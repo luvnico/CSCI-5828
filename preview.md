@@ -37,7 +37,7 @@ Brook believes there’s no silver bullet for software engineering since it’s 
 
 Computer science is about discovering scientific truth and principles about computational theory, identifying technologies and solving problems through math and science. Chemistry and computer science are very much alike in their nature since they’re both at the theoretical level, and are usually just experimented on a small scale.
 
-In contrast, software engineering is more about “the application of engineering to the development of software in a systematic method”, as defined by Wikipedia. It focuses more on applying the principles and technologies to solve practical problems in the context of constraints on a large scale. Similar to chemical engineering, it’s more dedicated to the delivery of real world application.
+In contrast, software engineering is more about “the application of engineering to the development of software in a systematic method”, as defined by Wikipedia[1](https://en.wikipedia.org/wiki/Software_engineering). It focuses more on applying the principles and technologies to solve practical problems in the context of constraints on a large scale. Similar to chemical engineering, it’s more dedicated to the delivery of real world application.
 
 **6. In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.**
 
@@ -51,4 +51,5 @@ In contrast, software engineering is more about “the application of engineerin
 
 ***Iteration*** is reflected everywhere in software engineering as well. The engineers will not write 10000 lines of code in one sitting and then do debugging. Instead, the engineers will keep debugging and do testing during the implementation process. Iterative is also an important development model in industry environment. With adding new functional capabilities and modifying design at each iteration, the whole system can be developed through repeated cycles. 
 
-# Reference #
+# Reference 
+1. https://en.wikipedia.org/wiki/Software_engineering
