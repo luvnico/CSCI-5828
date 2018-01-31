@@ -50,3 +50,5 @@ In contrast, software engineering is more about “the application of engineerin
 ***Translation*** is embodied as the transition from one phase to another during the process of software engineering. Translation Other reflection of translation includes the delivery of functional and user requirements based on the client’s demand, or transformation from the design into real product with codes. Translation has its significance in the aspect of communication with different levels, and it helps understanding a large structure when it’s translated into smaller pieces.
 
 ***Iteration*** is reflected everywhere in software engineering as well. The engineers will not write 10000 lines of code in one sitting and then do debugging. Instead, the engineers will keep debugging and do testing during the implementation process. Iterative is also an important development model in industry environment. With adding new functional capabilities and modifying design at each iteration, the whole system can be developed through repeated cycles. 
+
+#Reference
